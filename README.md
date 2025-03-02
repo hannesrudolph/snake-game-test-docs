@@ -1,6 +1,6 @@
 # Snake Game Documentation
 
-## Introduction
+## Introduction test
 
 This document provides comprehensive information about the Snake Game, including its features, gameplay, and technical details.
 
